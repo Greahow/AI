@@ -1,0 +1,10 @@
+com\blueasdfg\analysis\AnalysisResult.class
+com\blueasdfg\turling\TurlingApplication.class
+com\blueasdfg\turling\answer\AnalysisQuestion.class
+com\blueasdfg\turling\Users.class
+com\blueasdfg\turling\WebTuLing.class
+com\blueasdfg\turling\TestApi.class
+com\blueasdfg\turling\TuLingApiUtil.class
+com\blueasdfg\database\DataSave.class
+com\blueasdfg\turling\UserRepository.class
+com\blueasdfg\analysis\AnalysisApiUtil.class
